@@ -3,11 +3,5 @@ date: 2018-04-23T10:29:52+02:00
 draft: false
 ---
 
-# Data pro projekt
 
 Jako první byl zvolen web http://www.kmc.cz/pracovni-listy-k-vybranym-kniznim-titulum-zdarma.html. Vlastníkem tohoto webu je Albatrosmedia a.s. Na webu Knižního klubu zveřejňují zdarma metodické materiály vždy ve dvou provedení. Jedno je černobílé pro rychlý a levný tisk a druhé je barevné, aby bylo možné je například promítat na projekci. Tohle je pro náš web velice důležité z několika důvodů. Jednak můžeme přidat přímo tyto metodické materiály, ale hlavně můžeme čerpat inspiraci na knihy, které jsou vhodně pro děti různch věkových skupin a dá se s nimi následně vhodně pracovat. Tyto knihy jsou vhodné pro děti prvních, druhých a třetích třích základních škol. Dále na tomto webu najdeme několik aktiálních knižních katalogů. Pro tvorbu našeho webu je velmi důležité orientovat se v aktuální nabídce vydávaných knih, k tomu nám knižní katalogy a ediční plány mohou pomoci. Také samotná stránka vydavatelství Albatros media a.s. pro nás může být velice inspirativní. Na stránce můžeme najít mnoho knih pro děti. Vyhledávání nás zde velmi usnandní mnoho možností filtrování dotazů, například podle věku čtenáře a nachází se zde i hodnocení dokumentů, to nám také může usnadnit výběr knih prezentovaných na našem webu. Další stránkou je projekt ČTEsyRÁD  http://www.ctesyrad.cz/, kde můžeme najít velké množství dat v podobě doporučených knih pro děti. Toto dílo podléhá lícenci Creative Commons Uveďte autora-Neužívejte dílo komerčně-Zachovejte licenci 3.0 Česko.
-
-
-
-
-
