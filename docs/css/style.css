@@ -2,7 +2,7 @@
   margin: 30px auto;
   max-width: 800px;
   padding: 20px;
-  background-color: #ffff66;
+  background-color: teal;
 
 }
 
@@ -20,12 +20,13 @@ footer {
 }
 h1, h2, {
   font-family: cursive;
-  color: #808080;
+  color: white;
 }
 
 p {
   font-family: sans-serif;
   line-height: 1.5;
+  color: white;
 }
 
 .page {
@@ -40,16 +41,18 @@ p {
 aside {
   float: left;
   width: 25%;
-  margin-top: 1em;
+  margin-top: 3em;
 }
 
 nav ul {
   list-style-type: none;
-  padding: 0;
+  padding: 1;
+  color: white;
 }
 
 nav li {
   margin-bottom: 1em;
+  color: white;
 }
 
 nav .active {
@@ -57,5 +60,5 @@ nav .active {
 }
 
 body {
-  color: #00FFFF;
+  color: teal;
 }
