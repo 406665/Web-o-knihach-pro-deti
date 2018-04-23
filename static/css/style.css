@@ -2,7 +2,7 @@
   margin: 30px auto;
   max-width: 800px;
   padding: 20px;
-  background-color: teal;
+  background-color: tail;
 
 }
 
@@ -18,11 +18,12 @@ header {
 footer {
   border-top: solid;
   clear: both;
-
+  color: black;
 }
 
 h1, h2, {
   font-family: cursive;
+  color: white;
 }
 
 p {
@@ -33,7 +34,7 @@ p {
 }
 
 a {
-  color: blue;
+  color: black;
 }
 
 .page {
@@ -63,6 +64,3 @@ nav li {
 nav .active {
   font-weight: bold;
 }
-
-
-
