@@ -20,7 +20,7 @@ footer {
 }
 h1, h2, {
   font-family: cursive;
-  color: #808080;
+  color: white;
 }
 
 p {
@@ -47,10 +47,12 @@ aside {
 nav ul {
   list-style-type: none;
   padding: 1;
+  color: white;
 }
 
 nav li {
   margin-bottom: 1em;
+  color: white;
 }
 
 nav .active {
