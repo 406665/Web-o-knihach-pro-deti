@@ -6,10 +6,19 @@
     <description>Recent content in Home on CO ČÍST?</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Tue, 27 Mar 2018 14:57:19 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 23 Apr 2018 12:44:00 +0200</lastBuildDate>
     
 	<atom:link href="https://406665.github.io/Web-o-knihach-pro-deti/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://406665.github.io/Web-o-knihach-pro-deti/post/data-pro-projekt/</link>
+      <pubDate>Mon, 23 Apr 2018 12:44:00 +0200</pubDate>
+      
+      <guid>https://406665.github.io/Web-o-knihach-pro-deti/post/data-pro-projekt/</guid>
+      <description>Data pro projekt Jako první byl zvolen web http://www.kmc.cz/pracovni-listy-k-vybranym-kniznim-titulum-zdarma.html. Vlastníkem tohoto webu je Albatrosmedia a.s. Na webu Knižního klubu zveřejňují zdarma metodické materiály vždy ve dvou provedení. Jedno je černobílé pro rychlý a levný tisk a druhé je barevné, aby bylo možné je například promítat na projekci. Tohle je pro náš web velice důležité z několika důvodů. Jednak můžeme přidat přímo tyto metodické materiály, ale hlavně můžeme čerpat inspiraci na knihy, které jsou vhodně pro děti různch věkových skupin a dá se s nimi následně vhodně pracovat.</description>
+    </item>
     
     <item>
       <title>Členové týmu:</title>
@@ -48,6 +57,16 @@
       <guid>https://406665.github.io/Web-o-knihach-pro-deti/post/welcome-to-hugo/</guid>
       <description>You’ll find this post in your content/post directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run command hugo server, which launches a web server and auto-regenerates your site when a file is updated.
 To add new posts, simply add a file in the content/post directory that follows the convention name-of-post.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://406665.github.io/Web-o-knihach-pro-deti/data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://406665.github.io/Web-o-knihach-pro-deti/data/</guid>
+      <description>title: &amp;ldquo;Data pro sběr&amp;rdquo; date: 2018-04-23T10:29:52+02:00
+draft: false Data pro projekt Jako první byl zvolen web http://www.kmc.cz/pracovni-listy-k-vybranym-kniznim-titulum-zdarma.html. Vlastníkem tohoto webu je Albatrosmedia a.s. Na webu Knižního klubu zveřejňují zdarma metodické materiály vždy ve dvou provedení. Jedno je černobílé pro rychlý a levný tisk a druhé je barevné, aby bylo možné je například promítat na projekci. Tohle je pro náš web velice důležité z několika důvodů. Jednak můžeme přidat přímo tyto metodické materiály, ale hlavně můžeme čerpat inspiraci na knihy, které jsou vhodně pro děti různch věkových skupin a dá se s nimi následně vhodně pracovat.</description>
     </item>
     
     <item>
