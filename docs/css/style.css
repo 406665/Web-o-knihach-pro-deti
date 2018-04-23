@@ -41,12 +41,12 @@ p {
 aside {
   float: left;
   width: 25%;
-  margin-top: 1em;
+  margin-top: 3em;
 }
 
 nav ul {
   list-style-type: none;
-  padding: 0;
+  padding: 1;
 }
 
 nav li {
