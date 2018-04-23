@@ -2,6 +2,7 @@ title: CO ČÍST?
 baseURL: https://406665.github.io/Web-o-knihach-pro-deti/
 languageCode: cs-cz
 publishDir: docs
+googleAnalytics: UA-117879209-1
 
 menu:
   main:
