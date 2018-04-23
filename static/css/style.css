@@ -18,7 +18,7 @@ header {
 footer {
   border-top: solid;
   clear: both;
-  color: white;
+
 }
 
 h1, h2, {
@@ -29,10 +29,11 @@ p {
   font-family: sans-serif;
   line-height: 1.5;
   size: 13px;
+  color: black;
 }
 
 a {
-  color: teal;
+  color: blue;
 }
 
 .page {
