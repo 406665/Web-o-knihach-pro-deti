@@ -2,7 +2,7 @@
   margin: 30px auto;
   max-width: 800px;
   padding: 20px;
-  background: url('https://pixabay.com/cs/maloobchodn%C3%AD-knihkupectv%C3%AD-police-3205035');
+  background-color: #ffff66;
 
 }
 
@@ -23,6 +23,10 @@ h1 {
 }
 h2 {
   font-family: cursive;
+}
+p {
+  font-family: sans-serif;
+  line-height: 1.5;
 }
 
 .page {
