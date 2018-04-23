@@ -1,7 +1,7 @@
 ---
 title: "Data pro projekt"
 date: 2018-04-23T13:03:16+02:00
-draft: true
+draft: false
 ---
 
 Jako první byl zvolen web [Klub mladých čtenářů] [] . Vlastníkem tohoto webu je Albatrosmedia a.s., což je největší knižní vydavatelství v ČR. Na webu Knižního klubu zveřejňují zdarma metodické materiály vždy ve dvou provedení. Jedno je černobílé pro rychlý a levný tisk a druhé je barevné, aby bylo možné je například promítat na projekci. Tohle je pro náš web velice důležité z několika důvodů. Jednak můžeme přidat přímo tyto metodické materiály, ale hlavně můžeme čerpat inspiraci na knihy, které jsou vhodně pro děti různch věkových skupin a dá se s nimi následně vhodně pracovat. Tyto knihy jsou vhodné pro děti prvních, druhých a třetích třích základních škol. Dále na tomto webu najdeme několik aktiálních knižních katalogů. Pro tvorbu našeho webu je velmi důležité orientovat se v aktuální nabídce vydávaných knih, k tomu nám knižní katalogy a ediční plány mohou pomoci. Také samotná stránka vydavatelství [Albatros media a.s.] [] pro nás ůže být velice inspirativní. Na stránce můžeme najít mnoho knih pro děti. Vyhledávání nás zde velmi usnandní mnoho možností filtrování dotazů, například podle věku čtenáře a nachází se zde i hodnocení dokumentů, to nám také může usnadnit výběr knih prezentovaných na našem webu.  
