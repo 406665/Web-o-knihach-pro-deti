@@ -18,11 +18,12 @@ header {
 footer {
   border-top: solid;
   clear: both;
-  color: white;
+  color: black;
 }
 
 h1, h2, {
   font-family: cursive;
+  color: white
 }
 
 p {
@@ -32,7 +33,7 @@ p {
 }
 
 a {
-  color: teal;
+  color: black;
 }
 
 .page {
