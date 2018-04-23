@@ -12,21 +12,27 @@ header {
   color: black;
   text-align: center;
   font-family: sans-serif;
+  color: white;
 }
 
 footer {
   border-top: solid;
   clear: both;
+  color: white;
 }
+
 h1, h2, {
   font-family: cursive;
-  color: white;
 }
 
 p {
   font-family: sans-serif;
   line-height: 1.5;
-  color: white;
+  size: 13px;
+}
+
+a {
+  color: teal;
 }
 
 .page {
@@ -40,25 +46,22 @@ p {
 
 aside {
   float: left;
-  width: 25%;
-  margin-top: 3em;
+  width: 24%;
+  margin-top: 2em;
+  background-color: teal;
 }
 
 nav ul {
   list-style-type: none;
   padding: 1;
-  color: white;
 }
 
 nav li {
-  margin-bottom: 1em;
-  color: white;
-}
+  margin-bottom: 2em;
 
 nav .active {
   font-weight: bold;
 }
 
-body {
-  color: teal;
-}
+
+

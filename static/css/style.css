@@ -12,11 +12,13 @@ header {
   color: black;
   text-align: center;
   font-family: sans-serif;
+  color: white;
 }
 
 footer {
   border-top: solid;
   clear: both;
+  color: white;
 }
 
 h1, h2, {
@@ -30,7 +32,7 @@ p {
 }
 
 a {
-  color: white;
+  color: teal;
 }
 
 .page {
@@ -52,12 +54,10 @@ aside {
 nav ul {
   list-style-type: none;
   padding: 1;
-  color: white;
 }
 
 nav li {
   margin-bottom: 2em;
-  color: white;
 
 nav .active {
   font-weight: bold;
