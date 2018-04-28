@@ -1,12 +1,12 @@
 ---
-title: All albums of The Beatles
+title: Místo Beatles sem dáme knihy :) 
 date: 2018-03-15
 tags: 
     - beatles
     - data
 ---
 
-This is just another post. And it illustrates a mighty functionality.
+Tady bude něco super pro děti i rodiče 
 
 <!--more-->
 
