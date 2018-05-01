@@ -6,18 +6,27 @@
     <description>Recent content in Archive on CO ČÍST?</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Mon, 23 Apr 2018 12:55:51 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 01 May 2018 16:55:59 +0200</lastBuildDate>
     
 	<atom:link href="https://406665.github.io/Web-o-knihach-pro-deti/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Data</title>
+      <title>Co JE PIRLS?</title>
+      <link>https://406665.github.io/Web-o-knihach-pro-deti/post/clanek/clanek/</link>
+      <pubDate>Tue, 01 May 2018 16:55:59 +0200</pubDate>
+      
+      <guid>https://406665.github.io/Web-o-knihach-pro-deti/post/clanek/clanek/</guid>
+      <description>Mezinárodní šetření PIRLS (Progress in International Reading Literacy Study) je zaměřeno na testování čtenářské gramotnosti žáků 4. ročníku základních škol. Cyklus tohoto šetření je pětiletý. Šetření je na mezinárodní úrovni koordinováno Mezinárodní asociací pro hodnocení výsledků vzdělávání (The International Association for the Evaluation of Educational Achievement – IEA), v ČR je jeho realizátorem Česká školní inspekce. Šetření PIRLS se snaží také zmapovat význam rodinného, školního a širšího prostředí žáků pro rozvoj čtenářské gramotnosti.</description>
+    </item>
+    
+    <item>
+      <title>ÚVOD</title>
       <link>https://406665.github.io/Web-o-knihach-pro-deti/post/data/</link>
       <pubDate>Mon, 23 Apr 2018 12:55:51 +0200</pubDate>
       
       <guid>https://406665.github.io/Web-o-knihach-pro-deti/post/data/</guid>
-      <description>Jako první byl zvolen web http://www.kmc.cz/pracovni-listy-k-vybranym-kniznim-titulum-zdarma.html. Vlastníkem tohoto webu je Albatrosmedia a.s. Zveřejňují zde zdarma metodické materiály. Můžeme přidat přímo tyto metodické materiály, ale hlavně můžeme čerpat inspiraci na knihy. Také samotná stránka vydavatelství Albatros media a.s. pro nás může být velice inspirativní. Další stránkou je projekt ČTEsyRÁD http://www.ctesyrad.cz/, kde najdeme knihy pro děti. Toto dílo podléhá lícenci Creative Commons. Více mi sem nešlo dát, proto jsem to vložila do složky O projektu.</description>
+      <description>Jako první byl zvolen webhttp://www.kmc.cz/pracovni-listy-k-vybranym-kniznim-titulum-zdarma.html. Vlastníkem tohoto webu je Albatrosmedia a.s. Zveřejňují zde zdarma metodické materiály. Můžeme přidat přímo tyto metodické materiály, ale hlavně můžeme čerpat inspiraci na knihy. Také samotná stránka vydavatelství Albatros media a.s. pro nás může být velice inspirativní. Další stránkou je projekt ČTEsyRÁD http://www.ctesyrad.cz/, kde najdeme knihy pro děti. Toto dílo podléhá lícenci Creative Commons. Více mi sem nešlo dát, proto jsem to vložila do složky O projektu.</description>
     </item>
     
     <item>
@@ -35,28 +44,27 @@
       <pubDate>Mon, 26 Mar 2018 21:53:09 +0200</pubDate>
       
       <guid>https://406665.github.io/Web-o-knihach-pro-deti/post/ctenarstvi/</guid>
-      <description>O výzkumu čtenářů a čtenářství  V roce 2013 proběhl pod garancí Knihovnického institutu Národní knihovny ČR první reprezentativní výzkum dětského čtenářství v České republice. Finance poskytlo Ministerstvo kultury ČR a realizaci samotného výzkumu provedla agentura Mediaresearch. Na přípravě výzkumu se podíleli odborníci z akademických institucí (Univerzita Karlova, Slezská univerzita, Akademie věd ČR). Jelikož byl výzkum první tohoto typu u nás, hledali jsme inspiraci u podobných výzkumů dětského čtenářství tuzemských i zahraničních.</description>
+      <description>O výzkumu čtenářů a čtenářství V roce 2013 proběhl pod garancí Knihovnického institutu Národní knihovny ČR první reprezentativní výzkum dětského čtenářství v České republice. Finance poskytlo Ministerstvo kultury ČR a realizaci samotného výzkumu provedla agentura Mediaresearch. Na přípravě výzkumu se podíleli odborníci z akademických institucí (Univerzita Karlova, Slezská univerzita, Akademie věd ČR). Jelikož byl výzkum první tohoto typu u nás, hledali jsme inspiraci u podobných výzkumů dětského čtenářství tuzemských i zahraničních.</description>
     </item>
     
     <item>
-      <title>All albums of The Beatles</title>
+      <title>Místo Beatles sem dáme knihy :)</title>
       <link>https://406665.github.io/Web-o-knihach-pro-deti/post/another-post/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://406665.github.io/Web-o-knihach-pro-deti/post/another-post/</guid>
-      <description>&lt;p&gt;This is just another post. And it illustrates a mighty functionality.&lt;/p&gt;
+      <description>&lt;p&gt;Tady bude něco super pro děti i rodiče&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Welcome to Hugo!</title>
+      <title>Už to konečně nebude jenom hugo - už to bude naše</title>
       <link>https://406665.github.io/Web-o-knihach-pro-deti/post/welcome-to-hugo/</link>
       <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://406665.github.io/Web-o-knihach-pro-deti/post/welcome-to-hugo/</guid>
-      <description>You’ll find this post in your content/post directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run command hugo server, which launches a web server and auto-regenerates your site when a file is updated.
-To add new posts, simply add a file in the content/post directory that follows the convention name-of-post.</description>
+      <description>Co dál? See another post or head back to homepage. (Check this paragraph to see the magic behind the between posts.)</description>
     </item>
     
   </channel>
