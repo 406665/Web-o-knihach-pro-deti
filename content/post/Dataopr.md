@@ -1,8 +1,8 @@
-title: "Data pro sběr"
-date: 2018-04-23T10:29:52+02:00
+---
+title: "DATA"
+date: 2018-05-01T18:16:30+02:00
 draft: false
 ---
-
 
 # DATA PRO PROJEKT
 
@@ -16,7 +16,8 @@ Další stránkou, kde najdeme oceněnou literuru pro děti je [Zlatá stuha] []
 
 Další data bychom mohli získat na webu naklatelství [Svojtka&CO. s.r.o.] [] . Zde bychom se mohli inspirovat především knihami pro děti od 0 do 5 let, které vydávají v několika edicích. 
 
-Další stránkou je projekt [ČTEnářův SYmpatický RÁDce] [], kde můžeme najít velké množství dat v podobě doporučených knih pro děti. Toto dílo podléhá lícenci       Creative Commons Uveďte autora-Neužívejte dílo komerčně-Zachovejte licenci 3.0 Česko.
+Další stránkou je projekt [ČTEnářův SYmpatický RÁDce] [], kde můžeme najít velké množství dat v podobě doporučených knih pro děti. Toto dílo podléhá lícenci       Creative Commons Uveďte autora-Neužívejte dílo komerčně-Zachovejte licenci 3.0 Česko. 
+
 
 
 [Klub mladých čtenářů]: http://www.kmc.cz/pracovni-listy-k-vybranym-kniznim-titulum-zdarma.html

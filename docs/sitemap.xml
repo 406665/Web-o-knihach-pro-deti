@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://406665.github.io/Web-o-knihach-pro-deti/post/data/</loc>
-    <lastmod>2018-04-23T12:55:51+02:00</lastmod>
+    <loc>https://406665.github.io/Web-o-knihach-pro-deti/post/dataopr/</loc>
+    <lastmod>2018-05-01T18:16:30+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://406665.github.io/Web-o-knihach-pro-deti/post/clanek/clanek/</loc>
+    <lastmod>2018-05-01T16:55:59+02:00</lastmod>
   </url>
   
   <url>
@@ -32,11 +37,6 @@
   </url>
   
   <url>
-    <loc>https://406665.github.io/Web-o-knihach-pro-deti/post/</loc>
-    <lastmod>2018-04-23T12:55:51+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://406665.github.io/Web-o-knihach-pro-deti/tags/beatles/</loc>
     <lastmod>2018-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -61,7 +61,7 @@
   
   <url>
     <loc>https://406665.github.io/Web-o-knihach-pro-deti/</loc>
-    <lastmod>2018-04-23T12:55:51+02:00</lastmod>
+    <lastmod>2018-05-01T18:16:30+02:00</lastmod>
   </url>
   
   <url>
@@ -84,6 +84,11 @@
     <loc>https://406665.github.io/Web-o-knihach-pro-deti/tags/</loc>
     <lastmod>2018-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://406665.github.io/Web-o-knihach-pro-deti/post/</loc>
+    <lastmod>2018-05-01T18:16:30+02:00</lastmod>
   </url>
   
 </urlset>
