@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Archive on CO ČÍST?</title>
+    <title>ČLÁNKY on CO ČÍST?</title>
     <link>https://406665.github.io/Web-o-knihach-pro-deti/post/</link>
-    <description>Recent content in Archive on CO ČÍST?</description>
+    <description>Recent content in ČLÁNKY on CO ČÍST?</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Tue, 01 May 2018 16:55:59 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 01 May 2018 18:16:30 +0200</lastBuildDate>
     
 	<atom:link href="https://406665.github.io/Web-o-knihach-pro-deti/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Co JE PIRLS?</title>
+      <title>Dataopr</title>
+      <link>https://406665.github.io/Web-o-knihach-pro-deti/post/dataopr/</link>
+      <pubDate>Tue, 01 May 2018 18:16:30 +0200</pubDate>
+      
+      <guid>https://406665.github.io/Web-o-knihach-pro-deti/post/dataopr/</guid>
+      <description>DATA PRO PROJEKT Jako první byl zvolen web Klub mladých čtenářů . Vlastníkem tohoto webu je Albatrosmedia a.s., což je největší knižní vydavatelství v ČR. Na webu Knižního klubu zveřejňují zdarma metodické materiály vždy ve dvou provedení. Jedno je černobílé pro rychlý a levný tisk a druhé je barevné, aby bylo možné je například promítat na projekci. Tohle je pro náš web velice důležité z několika důvodů. Jednak můžeme přidat přímo tyto metodické materiály, ale hlavně můžeme čerpat inspiraci na knihy, které jsou vhodně pro děti různch věkových skupin a dá se s nimi následně vhodně pracovat.</description>
+    </item>
+    
+    <item>
+      <title>CO JE PIRLS?</title>
       <link>https://406665.github.io/Web-o-knihach-pro-deti/post/clanek/clanek/</link>
       <pubDate>Tue, 01 May 2018 16:55:59 +0200</pubDate>
       
