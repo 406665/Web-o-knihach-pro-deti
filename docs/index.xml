@@ -6,13 +6,22 @@
     <description>Recent content in Home on CO ČÍST?</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Tue, 01 May 2018 16:55:59 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 01 May 2018 18:16:30 +0200</lastBuildDate>
     
 	<atom:link href="https://406665.github.io/Web-o-knihach-pro-deti/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Co JE PIRLS?</title>
+      <title>Dataopr</title>
+      <link>https://406665.github.io/Web-o-knihach-pro-deti/post/dataopr/</link>
+      <pubDate>Tue, 01 May 2018 18:16:30 +0200</pubDate>
+      
+      <guid>https://406665.github.io/Web-o-knihach-pro-deti/post/dataopr/</guid>
+      <description>DATA PRO PROJEKT Jako první byl zvolen web Klub mladých čtenářů . Vlastníkem tohoto webu je Albatrosmedia a.s., což je největší knižní vydavatelství v ČR. Na webu Knižního klubu zveřejňují zdarma metodické materiály vždy ve dvou provedení. Jedno je černobílé pro rychlý a levný tisk a druhé je barevné, aby bylo možné je například promítat na projekci. Tohle je pro náš web velice důležité z několika důvodů. Jednak můžeme přidat přímo tyto metodické materiály, ale hlavně můžeme čerpat inspiraci na knihy, které jsou vhodně pro děti různch věkových skupin a dá se s nimi následně vhodně pracovat.</description>
+    </item>
+    
+    <item>
+      <title>CO JE PIRLS?</title>
       <link>https://406665.github.io/Web-o-knihach-pro-deti/post/clanek/clanek/</link>
       <pubDate>Tue, 01 May 2018 16:55:59 +0200</pubDate>
       
@@ -74,7 +83,7 @@
       
       <guid>https://406665.github.io/Web-o-knihach-pro-deti/data/</guid>
       <description>title: &amp;ldquo;Data pro sběr&amp;rdquo; date: 2018-04-23T10:29:52+02:00
-draft: false Jako první byl zvolen web http://www.kmc.cz/pracovni-listy-k-vybranym-kniznim-titulum-zdarma.html. Vlastníkem tohoto webu je Albatrosmedia a.s. Na webu Knižního klubu zveřejňují zdarma metodické materiály vždy ve dvou provedení. Jedno je černobílé pro rychlý a levný tisk a druhé je barevné, aby bylo možné je například promítat na projekci. Tohle je pro náš web velice důležité z několika důvodů. Jednak můžeme přidat přímo tyto metodické materiály, ale hlavně můžeme čerpat inspiraci na knihy, které jsou vhodně pro děti různch věkových skupin a dá se s nimi následně vhodně pracovat.</description>
+draft: false DATA PRO PROJEKT Jako první byl zvolen web Klub mladých čtenářů . Vlastníkem tohoto webu je Albatrosmedia a.s., což je největší knižní vydavatelství v ČR. Na webu Knižního klubu zveřejňují zdarma metodické materiály vždy ve dvou provedení. Jedno je černobílé pro rychlý a levný tisk a druhé je barevné, aby bylo možné je například promítat na projekci. Tohle je pro náš web velice důležité z několika důvodů.</description>
     </item>
     
     <item>
@@ -83,10 +92,10 @@ draft: false Jako první byl zvolen web http://www.kmc.cz/pracovni-listy-k-vybra
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://406665.github.io/Web-o-knihach-pro-deti/about/</guid>
-      <description>Tady se dočtete něco o tom, proč to děláme a co vlastně děláme a možná i jak dobře nám to jde
+      <description>Tady se dočtete něco o tom, co a proč děláme.
  CÍLOVÁ SKUPINA:
  Děti ZŠ a MŠ Jejich rodiče  CÍL:
- Web bude informovat o rozdílech mezi čtenářstvím a čtenářskou gramotností. A dále má pomoci dětem a jejich rodičům s výběrem knih a ke knihám předložit také otázky, aby si čtenáři nebo jejich rodiče mohli ověřit, zda rozumí textu a vědí, o čem čtou.</description>
+ Web bude informovat o rozdílech mezi čtenářstvím a čtenářskou gramotností. A dále má pomoci dětem a jejich rodičům s výběrem knih a ke knihám předložit také otázky, aby si čtenáři nebo jejich rodiče mohli ověřit, zda rozumí textu a vědí, o čem čtou. Proto by web měl obsahovat nabídku knih podle určité věkové kategorie.</description>
     </item>
     
   </channel>
