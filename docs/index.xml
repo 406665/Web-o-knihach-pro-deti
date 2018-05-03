@@ -6,10 +6,19 @@
     <description>Recent content in Home on CO ČÍST?</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Tue, 01 May 2018 18:16:30 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 02 May 2018 01:30:11 +0200</lastBuildDate>
     
 	<atom:link href="https://406665.github.io/Web-o-knihach-pro-deti/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dílna čtení</title>
+      <link>https://406665.github.io/Web-o-knihach-pro-deti/post/dilna_cteni/</link>
+      <pubDate>Wed, 02 May 2018 01:30:11 +0200</pubDate>
+      
+      <guid>https://406665.github.io/Web-o-knihach-pro-deti/post/dilna_cteni/</guid>
+      <description>Dílna čtení je celoroční systém práce, který pomáhá žákům v tom, aby se stali skutečnými čtenáři. Jedná se o praktický systém určený dětem od 3. do 9. třídy a vychází z programu RWCT (Čtením a psaním ke kritickému myšlení) a nabízí možný způsob, jak rozvíjet čtenářské dovednosti, jak rozečíst děti, které se dosud četbě vyhýbaly, a vytvořit ve třídě čtenářské společenství. V dílně čtení žáci pravidelně čtou souvislé beletristické texty, přemýšlí, hovoří a píšou o nich.</description>
+    </item>
     
     <item>
       <title>DATA</title>
@@ -30,6 +39,24 @@
     </item>
     
     <item>
+      <title>Noc s Andersenem</title>
+      <link>https://406665.github.io/Web-o-knihach-pro-deti/post/another-post/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://406665.github.io/Web-o-knihach-pro-deti/post/another-post/</guid>
+      <description>Už jste někdy nocovali v knihovně? Nejspíš asi ne. Možná proto, že jste už příliš velcí? Nebo proto, že vás to třeba až tolik neláká, ale tomu osobně moc nevěřím. Kdo by totiž nechtěl zažít to úžasné dobrodružství v podobě zábavy a her a navíc přespání v budově, do které se v noci jen tak každý nedostane :)</description>
+    </item>
+    
+    <item>
+      <title>Noc s Andersenem</title>
+      <link>https://406665.github.io/Web-o-knihach-pro-deti/%C4%8Dlanek/andersen/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://406665.github.io/Web-o-knihach-pro-deti/%C4%8Dlanek/andersen/</guid>
+      <description>Už jste někdy nocovali v knihovně? Nejspíš asi ne. Možná proto, že jste už příliš velcí? Nebo proto, že vás to třeba až tolik neláká, ale tomu osobně moc nevěřím. Kdo by totiž nechtěl zažít to úžasné dobrodružství v podobě zábavy a her a navíc přespání v budově, do které se v noci jen tak každý nedostane :)</description>
+    </item>
+    
+    <item>
       <title>Členové týmu:</title>
       <link>https://406665.github.io/Web-o-knihach-pro-deti/post/clenove/</link>
       <pubDate>Tue, 27 Mar 2018 14:57:19 +0200</pubDate>
@@ -45,17 +72,6 @@
       
       <guid>https://406665.github.io/Web-o-knihach-pro-deti/post/ctenarstvi/</guid>
       <description>O výzkumu čtenářů a čtenářství V roce 2013 proběhl pod garancí Knihovnického institutu Národní knihovny ČR první reprezentativní výzkum dětského čtenářství v České republice. Finance poskytlo Ministerstvo kultury ČR a realizaci samotného výzkumu provedla agentura Mediaresearch. Na přípravě výzkumu se podíleli odborníci z akademických institucí (Univerzita Karlova, Slezská univerzita, Akademie věd ČR). Jelikož byl výzkum první tohoto typu u nás, hledali jsme inspiraci u podobných výzkumů dětského čtenářství tuzemských i zahraničních.</description>
-    </item>
-    
-    <item>
-      <title>Místo Beatles sem dáme knihy :)</title>
-      <link>https://406665.github.io/Web-o-knihach-pro-deti/post/another-post/</link>
-      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://406665.github.io/Web-o-knihach-pro-deti/post/another-post/</guid>
-      <description>&lt;p&gt;Tady bude něco super pro děti i rodiče&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
