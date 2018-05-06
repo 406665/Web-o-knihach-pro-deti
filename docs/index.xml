@@ -31,11 +31,20 @@
     
     <item>
       <title>CO JE PIRLS?</title>
-      <link>https://406665.github.io/Web-o-knihach-pro-deti/post/clanek/clanek/</link>
+      <link>https://406665.github.io/Web-o-knihach-pro-deti/post/pirls/</link>
       <pubDate>Tue, 01 May 2018 16:55:59 +0200</pubDate>
       
-      <guid>https://406665.github.io/Web-o-knihach-pro-deti/post/clanek/clanek/</guid>
+      <guid>https://406665.github.io/Web-o-knihach-pro-deti/post/pirls/</guid>
       <description>Mezinárodní šetření PIRLS (Progress in International Reading Literacy Study) je zaměřeno na testování čtenářské gramotnosti žáků 4. ročníku základních škol. Cyklus tohoto šetření je pětiletý. Šetření je na mezinárodní úrovni koordinováno Mezinárodní asociací pro hodnocení výsledků vzdělávání (The International Association for the Evaluation of Educational Achievement – IEA), v ČR je jeho realizátorem Česká školní inspekce. Šetření PIRLS se snaží také zmapovat význam rodinného, školního a širšího prostředí žáků pro rozvoj čtenářské gramotnosti.</description>
+    </item>
+    
+    <item>
+      <title>Noc s Andersenem</title>
+      <link>https://406665.github.io/Web-o-knihach-pro-deti/post/noc_s_andersenem/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://406665.github.io/Web-o-knihach-pro-deti/post/noc_s_andersenem/</guid>
+      <description>Už jste někdy nocovali v knihovně? Nejspíš asi ne. Možná proto, že jste už příliš velcí? Nebo proto, že vás to třeba až tolik neláká, ale tomu osobně moc nevěřím. Kdo by totiž nechtěl zažít to úžasné dobrodružství v podobě zábavy a her a navíc přespání v budově, do které se v noci jen tak každý nedostane :)</description>
     </item>
     
     <item>
@@ -44,15 +53,6 @@
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://406665.github.io/Web-o-knihach-pro-deti/post/another-post/</guid>
-      <description>Už jste někdy nocovali v knihovně? Nejspíš asi ne. Možná proto, že jste už příliš velcí? Nebo proto, že vás to třeba až tolik neláká, ale tomu osobně moc nevěřím. Kdo by totiž nechtěl zažít to úžasné dobrodružství v podobě zábavy a her a navíc přespání v budově, do které se v noci jen tak každý nedostane :)</description>
-    </item>
-    
-    <item>
-      <title>Noc s Andersenem</title>
-      <link>https://406665.github.io/Web-o-knihach-pro-deti/%C4%8Dlanek/andersen/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://406665.github.io/Web-o-knihach-pro-deti/%C4%8Dlanek/andersen/</guid>
       <description>Už jste někdy nocovali v knihovně? Nejspíš asi ne. Možná proto, že jste už příliš velcí? Nebo proto, že vás to třeba až tolik neláká, ale tomu osobně moc nevěřím. Kdo by totiž nechtěl zažít to úžasné dobrodružství v podobě zábavy a her a navíc přespání v budově, do které se v noci jen tak každý nedostane :)</description>
     </item>
     
