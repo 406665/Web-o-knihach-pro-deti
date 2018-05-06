@@ -1,9 +1,9 @@
 .wrapper {
   margin: 30px auto;
   max-width: 800px;
-  padding: 20px;
-  background-color: tail;
+  padding: 20px
 
+ 
 }
 
 header {
@@ -50,7 +50,7 @@ aside {
   float: left;
   width: 24%;
   margin-top: 2em;
-  background-color: teal;
+ 
 }
 
 nav ul {
