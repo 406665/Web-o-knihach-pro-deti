@@ -15,6 +15,6 @@ menu:
       weight: 20
 
 params:
-  description: Náš web, který bude určitě super.
+  description: Náš web, který bude určitě super
   authors: ThreeM
 

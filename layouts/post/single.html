@@ -1,5 +1,10 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+  
+                <!-- Go to www.addthis.com/dashboard to customize your tools -->
+                <div class="addthis_inline_follow_toolbox"></div>
+            
   <p class="date">{{ .Date.Local.Format "January 2, 2006" }}</p>
   {{ .Content }}
 {{ end }}
+

@@ -31,7 +31,7 @@
     font-family: Georgia;
     background: yellow;
     color: hotpink;
-  }
+  }       
   a {
     color: purple;
   }
@@ -55,7 +55,11 @@
   }
 </style>
 <body>
-  <div class="wrapper">
+
+                <!-- Go to www.addthis.com/dashboard to customize your tools -->
+                <div class="addthis_inline_follow_toolbox"></div>
+            
+  <div class="wrapper">   
     <header>
       <h1><a href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
       <p class="description">{{ .Site.Params.description }}</p>
@@ -73,6 +77,8 @@
         This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><b>Creative Commons</b> Attribution-ShareAlike 4.0 International License</a>.
       </p>
     </footer>
-  </div>
+  </div>           
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5aee0bfb08261509"></script>
 </body>
 </html>
