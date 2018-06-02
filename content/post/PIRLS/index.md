@@ -1,5 +1,5 @@
 ---
-title: "CO JE PIRLS?"
+title: "MEZINÁRODNÍ ŠETŘENÍ PIRLS 2016"
 date: 2018-05-01T16:55:59+02:00
 draft: false
 ---
